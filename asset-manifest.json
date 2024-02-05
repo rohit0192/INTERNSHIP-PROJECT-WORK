@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/INTERNSHIP-PROJECT-WORK/static/css/main.c03d7dc5.css",
+    "main.js": "/INTERNSHIP-PROJECT-WORK/static/js/main.ea40cafb.js",
+    "static/media/ServicesBanner.png": "/INTERNSHIP-PROJECT-WORK/static/media/ServicesBanner.670afa53657da575e466.png",
+    "static/media/AboutBanner.png": "/INTERNSHIP-PROJECT-WORK/static/media/AboutBanner.434cded85d05a3e6017f.png",
+    "static/media/himg2.png": "/INTERNSHIP-PROJECT-WORK/static/media/himg2.b540724c39634dabe6d1.png",
+    "static/media/whoweare.png": "/INTERNSHIP-PROJECT-WORK/static/media/whoweare.08143c3c12ec66cc1511.png",
+    "static/media/AboutVideo.png": "/INTERNSHIP-PROJECT-WORK/static/media/AboutVideo.88e0db7121a59be59b26.png",
+    "static/media/ClientImg1.png": "/INTERNSHIP-PROJECT-WORK/static/media/ClientImg1.4a49b2090cc503c5e66b.png",
+    "static/media/himg1.png": "/INTERNSHIP-PROJECT-WORK/static/media/himg1.f5f5d3b753a42e576f62.png",
+    "static/media/WhatWeDo1.png": "/INTERNSHIP-PROJECT-WORK/static/media/WhatWeDo1.b32725ee30593c077122.png",
+    "static/media/pimg2.png": "/INTERNSHIP-PROJECT-WORK/static/media/pimg2.7b3fd30c477fb28c44fb.png",
+    "static/media/pimg1.png": "/INTERNSHIP-PROJECT-WORK/static/media/pimg1.1c80799a768a930df750.png",
+    "static/media/Poppins-Light.ttf": "/INTERNSHIP-PROJECT-WORK/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/WhatWeDo2.png": "/INTERNSHIP-PROJECT-WORK/static/media/WhatWeDo2.16218fa072325e461bcf.png",
+    "static/media/pimg3.png": "/INTERNSHIP-PROJECT-WORK/static/media/pimg3.de834041125e6ae3bd37.png",
+    "static/media/timg1.png": "/INTERNSHIP-PROJECT-WORK/static/media/timg1.20cdacd9bea30d2fc130.png",
+    "static/media/timg3.png": "/INTERNSHIP-PROJECT-WORK/static/media/timg3.bca71babe34eea43a7d6.png",
+    "static/media/timg2.png": "/INTERNSHIP-PROJECT-WORK/static/media/timg2.0a5b6917c44ef8e68df4.png",
+    "static/media/Belgro.ttf": "/INTERNSHIP-PROJECT-WORK/static/media/Belgro.785e9cad9c69a1a77d0f.ttf",
+    "static/media/AppointmentImg.png": "/INTERNSHIP-PROJECT-WORK/static/media/AppointmentImg.fedbad35f3d29a77a01b.png",
+    "static/media/Marker.png": "/INTERNSHIP-PROJECT-WORK/static/media/Marker.60be1644ea74709b0558.png",
+    "static/media/SolaceServiceslogo.png": "/INTERNSHIP-PROJECT-WORK/static/media/SolaceServiceslogo.58fde120c7d6de28a91b.png",
+    "index.html": "/INTERNSHIP-PROJECT-WORK/index.html",
+    "static/media/search.svg": "/INTERNSHIP-PROJECT-WORK/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "main.c03d7dc5.css.map": "/INTERNSHIP-PROJECT-WORK/static/css/main.c03d7dc5.css.map",
+    "main.ea40cafb.js.map": "/INTERNSHIP-PROJECT-WORK/static/js/main.ea40cafb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c03d7dc5.css",
+    "static/js/main.ea40cafb.js"
+  ]
+}
