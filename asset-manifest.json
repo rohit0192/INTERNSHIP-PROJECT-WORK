@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/INTERNSHIP-PROJECT-WORK/static/css/main.c03d7dc5.css",
-    "main.js": "/INTERNSHIP-PROJECT-WORK/static/js/main.ea40cafb.js",
+    "main.js": "/INTERNSHIP-PROJECT-WORK/static/js/main.fd16e7b3.js",
     "static/media/ServicesBanner.png": "/INTERNSHIP-PROJECT-WORK/static/media/ServicesBanner.670afa53657da575e466.png",
     "static/media/AboutBanner.png": "/INTERNSHIP-PROJECT-WORK/static/media/AboutBanner.434cded85d05a3e6017f.png",
     "static/media/himg2.png": "/INTERNSHIP-PROJECT-WORK/static/media/himg2.b540724c39634dabe6d1.png",
@@ -25,10 +25,10 @@
     "index.html": "/INTERNSHIP-PROJECT-WORK/index.html",
     "static/media/search.svg": "/INTERNSHIP-PROJECT-WORK/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
     "main.c03d7dc5.css.map": "/INTERNSHIP-PROJECT-WORK/static/css/main.c03d7dc5.css.map",
-    "main.ea40cafb.js.map": "/INTERNSHIP-PROJECT-WORK/static/js/main.ea40cafb.js.map"
+    "main.fd16e7b3.js.map": "/INTERNSHIP-PROJECT-WORK/static/js/main.fd16e7b3.js.map"
   },
   "entrypoints": [
     "static/css/main.c03d7dc5.css",
-    "static/js/main.ea40cafb.js"
+    "static/js/main.fd16e7b3.js"
   ]
 }
